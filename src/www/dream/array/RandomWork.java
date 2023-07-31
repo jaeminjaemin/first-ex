@@ -31,7 +31,7 @@ public class RandomWork {
 			displayBoard(board);
 		}
 
-		// 보드만들기
+		// 보드 만들기
 
 	}
 
